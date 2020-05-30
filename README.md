@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Quiz App
+Perfect project if you are interested on learn basic concepts of React framework and logic programing.
+![quiz app screen](https://user-images.githubusercontent.com/13697123/83316660-b9378a00-a1ec-11ea-99cc-730f39bd99fa.jpg)
+
 
 ## Available Scripts
 
